@@ -1,5 +1,13 @@
 🌊 **Dive Deep into Coral Analysis with CNN!** 🌊
 
+<div align="center">
+🚀 Basic Idea in Article! 🚀
+</div>
+
+<div align="center">
+    <img src="Framework.png" width="500" />
+</div>
+
 **🔬 Overview and Background**
 
 Embark on a groundbreaking journey with our project, a beacon of hope in the conservation efforts for our precious coral reefs. Stemming from our recent publication in the MDPI Big Data and Cognitive Computing journal, this initiative stands at the forefront of marine biology and artificial intelligence.
