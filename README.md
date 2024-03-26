@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-    <img src="Framework.png" width="500" />
+    <img src="Framework.png" width="400" />
 </div>
 
 **🔬 Overview and Background**
